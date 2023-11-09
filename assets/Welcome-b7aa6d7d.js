@@ -1,4 +1,4 @@
-import{b as p,e as s,r as c,f as g,j as e}from"./index-03b441ea.js";import{n}from"./emotion-styled.browser.esm-d37e948e.js";import{b as x,a as l,c as m,d as u,T as b}from"./Title-5575a8de.js";import{b as k,a as h}from"./main_bg_desktop-410f84f3.js";import{C as w}from"./ContainerStyled-bb0b3bf9.js";import{s as f}from"./sprite-25e03154.js";import{B as a}from"./ButtonLink-d18687ef.js";import{g as _,V as j,C}from"./CaloriesContainer-feeb99c6.js";const v=n.section`
+import{b as p,e as s,r as c,f as g,j as e}from"./index-e04bb5f6.js";import{n}from"./emotion-styled.browser.esm-f1300124.js";import{b as x,a as l,c as m,d as u,T as b}from"./Title-35e2046e.js";import{b as k,a as h}from"./main_bg_desktop-410f84f3.js";import{C as w}from"./ContainerStyled-bb0b3bf9.js";import{s as f}from"./sprite-6a75a5ed.js";import{B as a}from"./ButtonLink-db962cf2.js";import{g as _,V as j,C}from"./CaloriesContainer-58d6a0b9.js";const v=n.section`
   padding-top: 127px;
   padding-bottom: 40px;
   background: linear-gradient(170deg, #040404 3.66%, rgba(4, 4, 4, 0) 19.15%),

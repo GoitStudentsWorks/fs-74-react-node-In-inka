@@ -1,4 +1,4 @@
-import{s as n,g as a,j as e}from"./index-03b441ea.js";import{B as i}from"./ButtonLink-d18687ef.js";import{b as r,a as d,c as o,d as t,T as p}from"./Title-5575a8de.js";import{b as c,a as g}from"./main_bg_desktop-410f84f3.js";const s=n.section`
+import{s as n,g as a,j as e}from"./index-e04bb5f6.js";import{B as i}from"./ButtonLink-db962cf2.js";import{b as r,a as d,c as o,d as t,T as p}from"./Title-35e2046e.js";import{b as c,a as g}from"./main_bg_desktop-410f84f3.js";const s=n.section`
   background: linear-gradient(170deg, #040404 3.66%, rgba(4, 4, 4, 0) 19.15%),
     linear-gradient(73deg, #040404 6.11%, rgba(4, 4, 4, 0) 66.68%),
     url(${r});

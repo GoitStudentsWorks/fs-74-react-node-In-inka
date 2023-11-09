@@ -1,4 +1,4 @@
-import{s as i,j as s}from"./index-03b441ea.js";const g="/fs-74-react-node-In-inka/assets/main_bg_mob_x2-dd403410.jpg",r="/fs-74-react-node-In-inka/assets/main_bg_mob-8f07bae4.jpg",c="/fs-74-react-node-In-inka/assets/main_bg_tab_x2-54594741.jpg",m="/fs-74-react-node-In-inka/assets/main_bg_tab-d37027fc.jpg",a=i.h1`
+import{s as i,j as s}from"./index-e04bb5f6.js";const g="/fs-74-react-node-In-inka/assets/main_bg_mob_x2-dd403410.jpg",r="/fs-74-react-node-In-inka/assets/main_bg_mob-8f07bae4.jpg",c="/fs-74-react-node-In-inka/assets/main_bg_tab_x2-54594741.jpg",m="/fs-74-react-node-In-inka/assets/main_bg_tab-d37027fc.jpg",a=i.h1`
   color: rgba(239, 237, 232, 1);
   font-size: 38px;
   line-height: 1.05;
